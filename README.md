@@ -1,7 +1,7 @@
-## finapi - Finanças
+## finapi - Finances
 
 
-### Requisitos
+### Requirements
 
 - Deve ser possivel criar uma conta
 - Deve ser possivel buscar extracto bancario de cliente
@@ -12,7 +12,7 @@
 - Deve ser posssivel obter dados da conta do cliente
 - Dever ser possivel deletar uma conta 
 
-### Regra de Negocio
+### Business Rule
 
 - Nao deve ser possivel cadastrar uma conta com CPF ja existente
 - Nao deve ser possivel fazer deposito em uma conta nao existente
@@ -20,3 +20,10 @@
 - Nao deve ser possivel fazer saque em uma conta nao existente
 - Nao deve ser possivel excluir uma conta nao existente
 - Nao deve ser possivel fazer saque quando o saldo for insuficiente
+
+
+### last commit
+
+
+
+
